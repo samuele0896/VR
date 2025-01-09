@@ -29,6 +29,13 @@ h1 {
   margin-bottom: 20px;
 }
 
+/* Titolo del modulo */
+h2 {
+  color: #6a11cb; /* Viola */
+  font-size: 20px; /* Dimensione del testo */
+  margin-bottom: 15px; /* Spaziatura sotto il titolo */
+}
+
 /* Testo introduttivo */
 .intro-text {
   font-size: 16px;
@@ -94,3 +101,4 @@ button:hover {
     padding: 10px 20px;
   }
 }
+
